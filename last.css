@@ -1,0 +1,23 @@
+.s-in {
+	height: 80vh;
+	background: #ccd1ff;
+
+	display: flex;
+	margin: auto;
+	justify-content: space-around;
+    align-items: center;
+}
+
+.menu {
+	background: #c7c0ed;
+	width: 350px;
+	height: 180px;
+	border-radius: 10px;
+
+	display: flex;
+	margin: auto;
+	justify-content: space-around;
+    align-items: center;
+    border: 3.2px;
+    border-color: blue;
+}
